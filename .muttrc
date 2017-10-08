@@ -1,0 +1,38 @@
+# set realname         = "Adrian Garcia Cruz"
+set from             = "garcia.adrian.cruz@gmail.com"
+set use_from         = yes
+set envelope_from    = yes
+set smtp_url         = "smtp://garciaadriancruz@smtp.gmail.com:587/"
+set imap_user        = garcia.adrian.cruz@gmail.com
+set imap_pass        = "hner aqca kmjv miny"
+set folder           = "imaps://imap.gmail.com:993"
+set spoolfile        = imaps://imap.gmail.com:993/INBOX
+set record           = "+[Gmail]/Sent Mail"
+set certificate_file = "~/.mutt/certificates"
+mailboxes            = +INBOX
+
+set ssl_starttls  = yes
+set ssl_force_tls = yes
+set editor = "emacs -nw"
+set charset = "utf-8"
+
+# Store message headers locally to speed things up
+# If hcache is a folder, Mutt will create sub cache folders for each account which may speed things up even more.
+set header_cache = ~/.cache/mutt
+
+# Store messages locally to speed things up, like searching message bodies
+# Can be the same folder as header_cache
+# This will cost important disk usage according to your email account
+set message_cachedir = "~/.cache/mutt
+
+# Specify where to save and/or look for postponed messages.
+set postponed = +[Gmail]/Drafts
+
+# Allow Mutt to open a new IMAP connection automatically
+unset imap_passive
+
+# Keep the IMAP connection alive by polling intermittently (time in seconds).
+set imap_keepalive = 300
+
+# How often to check for new mail (time in seconds).
+set mail_check = 120

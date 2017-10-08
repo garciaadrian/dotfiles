@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="firefox-esr.desktop" open-window-count="1" score="11" last-seen="1502056665"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="184" last-seen="1502056659"/>
+    <application id="org.gnome.Software.desktop" open-window-count="0" score="0" last-seen="1502056371"/>
+  </context>
+</application-state>

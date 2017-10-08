@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///tmp/mozilla_blank0/getdeb-repository_0.1-1~getdeb1_all.deb" added="2017-08-07T21:14:15Z" modified="2017-08-07T21:14:15Z" visited="2017-08-07T21:14:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-07T21:14:15Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/getdeb-repository_0.1-1~getdeb1_all.deb" added="2017-08-07T21:15:02Z" modified="2017-08-07T21:24:29Z" visited="2017-08-07T21:15:02Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-07T21:24:29Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/polybar-3.0.5.tar.gz" added="2017-08-07T21:40:47Z" modified="2017-08-07T21:40:47Z" visited="2017-08-07T21:40:47Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-07T21:40:47Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/PragmataPro.ttf" added="2017-08-07T22:45:07Z" modified="2017-08-07T22:45:07Z" visited="2017-08-07T22:45:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-font-ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-07T22:45:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/PragmataPro-Z.ttf" added="2017-08-08T04:59:26Z" modified="2017-08-08T04:59:26Z" visited="2017-08-08T04:59:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-font-ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-08T04:59:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/PragmataPro(1).ttf" added="2017-08-08T04:59:29Z" modified="2017-08-08T04:59:29Z" visited="2017-08-08T04:59:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-font-ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-08T04:59:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/PragmataPro-I.ttf" added="2017-08-08T04:59:33Z" modified="2017-08-08T04:59:33Z" visited="2017-08-08T04:59:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-font-ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-08T04:59:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/get-pip.py" added="2017-08-08T05:04:33Z" modified="2017-08-08T05:04:33Z" visited="2017-08-08T05:04:33Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-08T05:04:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/PragmataPro.otf" added="2017-08-08T05:10:58Z" modified="2017-08-08T05:10:58Z" visited="2017-08-08T05:10:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.formula-template"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-08T05:10:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/ranger-stable.tar.gz" added="2017-08-08T05:35:16Z" modified="2017-08-08T05:35:16Z" visited="2017-08-08T05:35:16Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-08T05:35:16Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/PragmataPro%20Bold.otf" added="2017-08-08T05:57:34Z" modified="2017-08-08T05:57:34Z" visited="2017-08-08T05:57:34Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.oasis.opendocument.formula-template"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-08T05:57:34Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/wallhaven-490733.jpg" added="2017-08-09T02:31:41Z" modified="2017-08-09T02:31:41Z" visited="2017-08-09T02:31:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2017-08-09T02:31:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Documents/CplusplusConcurrencyInAction_PracticalMultithreading.pdf" added="2017-08-12T21:14:29Z" modified="2017-08-12T21:14:29Z" visited="2017-08-12T21:14:29Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2017-08-12T21:14:29Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blank/Downloads/libffi-3.2.1.tar.gz" added="2017-08-21T00:07:51Z" modified="2017-08-21T00:07:51Z" visited="2017-08-21T00:07:52.137894Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2017-08-21T00:07:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
